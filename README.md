@@ -74,7 +74,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 =======
-# ExamFinalRepo
-ExamFinalRepo
+# FinalRepo
+FinalRepo
 >>>>>>> bdeba151887c5c4e69fb2b9df9f439fb80e9462b
 >>>>>>> 5a30d64680e65a3f879e60717820ec77edb84c6e
