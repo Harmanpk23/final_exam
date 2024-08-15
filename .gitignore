@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+.vercel
+=======
 # Logs
 logs
 *.log
@@ -106,3 +109,4 @@ dist
 
 # TernJS port file
 .tern-port
+>>>>>>> bdeba151887c5c4e69fb2b9df9f439fb80e9462b
